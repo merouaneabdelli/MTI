@@ -1,0 +1,10 @@
+Hello Python
+Singleton Pattern
+Hello Python
+Singleton Pattern
+Hello Python
+Singleton Pattern
+Hello Python
+Singleton Pattern
+Hello Python
+Singleton Pattern
